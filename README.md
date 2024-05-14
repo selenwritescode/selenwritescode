@@ -37,4 +37,10 @@
 <br/>
 <hr/>
 
-![snake gif](https://github.com/selenwritescode/selenwritescode/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/selenwritescode/selenwritescode/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
