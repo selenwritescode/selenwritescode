@@ -37,5 +37,9 @@
 <br/>
 <hr/>
 
+<div align="center">
+    
 ## snake eating my contribution graph
 ![snake gif](https://github.com/selenwritescode/selenwritescode/blob/output/github-contribution-grid-snake-dark.svg)
+
+ </div>
