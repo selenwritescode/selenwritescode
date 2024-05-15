@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=selenwritescode.selenwritescode" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Selen+Gafur!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+✨;+I'm+Selen+Gafur 🦋;" />
 </h1>
 
 <h3 align="center">An enthusiastic mobile app developer 📱✨</h3>
@@ -39,7 +39,7 @@
 
 <div align="center">
     
-## snake eating my contribution graph
+## 🐍 My Contributions 🐍
 ![snake gif](https://github.com/selenwritescode/selenwritescode/blob/output/github-contribution-grid-snake-dark.svg)
 
  </div>
