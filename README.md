@@ -2,9 +2,9 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+✨;+I'm+Selen+Gafur+🦋;" />
-
-Hello there! I embarked on my software development journey with passion and curiosity. I'm diving into mobile app development, learning new things every day. I enjoy crafting projects with my coding and tech enthusiasm, and I love sharing this excitement. Excited to build cool stuff and collaborate. Let's create something awesome! 🚀
 </h1>
+
+<p style="text-align: center; font-size: 24px;">Hello there! I embarked on my software development journey with passion and curiosity. I'm diving into mobile app development, learning new things every day. I enjoy crafting projects with my coding and tech enthusiasm, and I love sharing this excitement. Excited to build cool stuff and collaborate. Let's create something awesome! 🚀</p>
 
 <h3 align="center">An enthusiastic mobile app developer 📱✨</h3>
 
