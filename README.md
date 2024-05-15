@@ -17,7 +17,7 @@
  
  🌱 I’m currently learning **Flutter**
 
- 🎉 Fun fact **Your brain is constantly eating itself**
+ ⚡ Fun fact - **Your brain is constantly eating itself**
 
  </div>
  
