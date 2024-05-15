@@ -6,8 +6,8 @@
 
 <h3 align="center">An enthusiastic mobile app developer 📱✨</h3>
 
-<p style="text-align: center; font-size: 24px;">Hello there! I embarked on my software development journey with passion and curiosity. I'm diving into mobile app development, learning new things every day. I enjoy crafting projects with my coding and tech enthusiasm, and I love sharing this excitement. Excited to build cool stuff and collaborate. Let's create something awesome! 🚀</p>
 
+<p style="text-align: center; font-size: 24px;">Hello there! I embarked on my software development journey with passion and curiosity. I'm diving into mobile app development, learning new things every day. I enjoy crafting projects with my coding and tech enthusiasm, and I love sharing this excitement. Excited to build cool stuff and collaborate. Let's create something awesome! 🚀</p>
 
 <br/>
 
